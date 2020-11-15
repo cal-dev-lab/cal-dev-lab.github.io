@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(224, 252, 239);
+}
+
+.container {
+    text-align: center;
+    margin: 20% auto;
+}
+
+p, .subText {
+    margin-top: -20px;
+    font-size: 0.75rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+p, .headerTitle {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 2rem;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
