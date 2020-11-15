@@ -17,3 +17,8 @@ p, .headerTitle {
     font-family: 'Philosopher', sans-serif;
     font-size: 2rem;
 }
+
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
